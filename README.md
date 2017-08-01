@@ -16,7 +16,7 @@ https://gist.github.com/Yogendra0Sharma/5aa96ebfd0854623a5451c53672088d5
 ### Setup and customize
 
 ```
- -git remote add seed https://github.com/elielagmay/docker-django-react-seed.git
+ -git remote add seed https://github.com/cozy-nyc/docker-django-react-seed.git
  -git pull seed master
  -cp server/web/settings/local.py.example server/web/settings/local.py
  
